@@ -1,4 +1,4 @@
-# Biomedical-Entity-Linking
+# Prompt-Entity-Linking
 
 ## Environment setup
 Clone the repository and set up the environment via "requirements.txt". Here we use python3.6. 
